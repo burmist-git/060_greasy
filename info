@@ -1,0 +1,7 @@
+module load daint-gpu
+module avail GREASY
+module load GREASY
+module show GREASY 
+module help GREASY
+sbatch job
+squeue --me
