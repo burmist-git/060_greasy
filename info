@@ -1,3 +1,5 @@
+https://user.cscs.ch/tools/high_throughput/
+
 module load daint-gpu
 module avail GREASY
 module load GREASY
